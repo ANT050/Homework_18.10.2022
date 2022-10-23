@@ -16,7 +16,7 @@
 
 - 1, -7, 567, 89, 223-> 4
 
-[Перейти к решению](https://github.com/ANT050/Homework_18.10.2022/blob/main/Task41/Program.cs "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_18.10.2022/blob/main/Task41/Program.cs "Открыть")
 
 ---
 
@@ -26,4 +26,6 @@
 
 - b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
-[Перейти к решению](https://github.com/ANT050/Homework_18.10.2022/blob/main/Task43/Program.cs "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_18.10.2022/blob/main/Task43/Program.cs "Открыть")
+
+---
